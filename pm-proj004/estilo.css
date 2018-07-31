@@ -1,0 +1,39 @@
+li{
+    width:100%;
+    padding:60px 160px 60px 70px;    
+    text-align:left;
+    font-size:20px;
+    list-style-type:none;
+    background-color:#4a4a4a;
+    margin: 2px;
+
+}
+.li1, .li2, .li3, .li4{
+
+height: 30px;
+color: #ffffff;
+font-family: 'Oswald';
+font-size: 20px;
+font-weight: 500;
+text-transform: uppercase;
+letter-spacing: 4px;
+    }
+.li1 a{
+    text-decoration: none;
+}
+.li1:hover{
+   background-color: rgba(74, 73, 74, 0.8);
+}
+.li2:hover{
+   background-color: rgba(74, 73, 74, 0.8);
+}
+.li3:hover{
+   background-color: rgba(74, 73, 74, 0.8);
+}
+.li4:hover{
+   background-color: rgba(74, 73, 74, 0.8);
+}
+
+.box_vazio:checked{
+    background-color: green;
+}

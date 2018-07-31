@@ -1,0 +1,51 @@
+::-webkit-input-placeholder { /* WebKit browsers */
+  color: #fff;
+}
+
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  color: #fff;
+}
+
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+  color: #fff;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+  color: #fff;
+}
+
+.escudo{
+    text-align:center;
+    margin-top:90px;
+    margin-bottom:90px;
+}
+
+.email{
+    
+    }
+body{
+    font-family:'Roboto';
+    width:375px;
+    height:667px;
+    background-color:#745cc1;
+}
+
+.btn{
+    width:247px;
+    height:50px;
+    box-shadow:0 2px 3px rgba(0, 0, 0, 0.5);
+    border-radius:40px;
+    background-color:#FFFFFF;
+    margin-top:59px;
+}
+.esqueci a{
+    color:#FFFFFF;
+    margin-top:29px;
+    font-weight:400;
+    font-size:14px;
+    text-shadow:0 1px 1px rgba(0, 0, 0, 0.5);
+    text-decoration: none;    
+    
+    
+    
+}
